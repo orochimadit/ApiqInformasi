@@ -1,0 +1,24 @@
+<sites>
+	<profil>
+		<nama>Visi</nama>
+		
+			<deskripsi>
+				Menjadi lembaga pendidikan yang berkomitment atas terciptanya generasi muda yang kreatif,bertanggungjawab,
+				dan peduli dengan mendayaguanakan matematika kreatif
+			</deskripsi>
+		
+	</profil>
+	<profil >
+		<nama>Misi</nama>
+		
+			<deskripsi>
+				Menjadi institusi pembelajaran matematika yang kreatif dan inovatif
+			</deskripsi>
+		
+	</profil>
+    <profil>
+        <nama>Sejarah</nama>
+        <deskripsi>Sistem belajar APIQ awalnya dikembangkan oleh seorang warga negara Indonesia yang peduli dengan kondisi pendidikan anak bangsa bernama Agus Nggermanto. Awalnya, ia mengajar di perguruan tinggi. Ia menemukan banyak mahasiswa yang belum menguasai konsep dasar matematika tingkat SMA. Kemudian ia mengajar siswa SMA yang ternyata banyak siswa tidak menguasai konsep dasar matematika SMP. Agus Nggermanto melanjutkan perjuangannya dengan mengajar siswa SMP. Ia menemukan hasil serupa: banyak siswa SMP yang belum menguasai konsep matematika SD. Pantang menyerah, Agus Nggermanto mengajar matematika siswa SD. Benar juga, banyak siswa SD yang belum menguasai konsep dasar matematika yang paling dasar sekali pun. Sekalian Agus Nggermanto mengajar matematika anak prasekolah.</deskripsi>
+    </profil>
+</sites>
+

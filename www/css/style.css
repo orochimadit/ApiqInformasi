@@ -1,0 +1,108 @@
+@charset "utf-8";
+/* CSS Document */
+
+.header{
+	/*background:#09F;*/
+	color: #ffffff;
+	  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+	  background-color: #ED6C02;
+	  *background-color: #ED6C02;
+	  background-repeat: repeat-x;
+	    border-left-color: #2f96b4;
+	    border-right-color: #2f96b4;
+	    border-top-color: #2f96b4;
+	    border-bottom-color: #1f6377;
+	height:50px;
+	/*margin-bottom:2%;*/
+	text-align:center;
+	font-family:"Helvetica Neus", sans-serif;
+	font-size:24px;
+	color:#FFFFFF;
+}
+.header a{
+    color: #ffffff;
+    font-weight: bold;
+}
+#margins{
+	margin-top: 5%;
+}
+
+.img-circle {
+  -webkit-border-radius: 500px;
+     -moz-border-radius: 500px;
+          border-radius: 500px;
+}
+
+#judul{
+	font-family: "Helvetica Neus", sans-serif;
+	font-size: 18px;
+	color: #ADFF2F;
+}
+
+body,p,h1,h2,h3,h4,h5,h6{
+	margin:0px !important;
+	padding:0px !important;	
+	font-family: "Helvetica Neus", sans-serif;
+}
+
+.title{
+	color:#4a887d
+}
+
+#sidee{
+	margin-right: 3%;
+	margin-left: 3%;
+}
+
+.img-circle{
+	background:#ffffff !important;
+	border:1px solid black !important;
+	
+}
+
+#name{
+	font-family: "Helvetica Neus", sans-serif;
+	font-size: 18px;
+	color: #000000;
+}
+
+#name1 a {
+	font-family: "Helvetica Neus", sans-serif;
+	font-size: 17px;
+    font-weight: bold;
+	color: #ED6C02;
+}
+#name1 a:hover{
+    background-color: #ED6C02;
+    color:#ffffff;
+    padding: 3px;
+     border-radius: 5px;
+}
+
+.fontisi{
+	font-family: "Helvetica Neus", sans-serif;
+	font-size: 14px;
+	color: #5b5b5b;
+	background: transparent;
+   
+}
+
+.highlight{
+	background:#f6f6f6;
+	padding-top:2%;
+	padding-bottom:2%;
+	margin-left:15%;
+	height:115px;
+}
+
+.highlight1{
+	/*background:#f6f6f6; */
+	padding-top:2%;
+	padding-bottom:2%;
+	margin-left:-16px;
+	
+}
+.content-visit{
+    padding: 10px 0px 10px 100px;
+
+}
